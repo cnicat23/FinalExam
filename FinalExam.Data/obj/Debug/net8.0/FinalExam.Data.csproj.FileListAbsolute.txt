@@ -1,0 +1,17 @@
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\obj\Debug\net8.0\FinalExam.Data.csproj.AssemblyReference.cache
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\obj\Debug\net8.0\FinalExam.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\obj\Debug\net8.0\FinalExam.Data.AssemblyInfoInputs.cache
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\obj\Debug\net8.0\FinalExam.Data.AssemblyInfo.cs
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\obj\Debug\net8.0\FinalExam.Data.csproj.CoreCompileInputs.cache
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\bin\Debug\net8.0\FinalExam.Data.deps.json
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\bin\Debug\net8.0\FinalExam.Data.runtimeconfig.json
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\bin\Debug\net8.0\FinalExam.Data.dll
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\bin\Debug\net8.0\FinalExam.Data.pdb
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\bin\Debug\net8.0\FinalExam.Core.dll
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\bin\Debug\net8.0\FinalExam.Core.pdb
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\obj\Debug\net8.0\FinalExa.703933BC.Up2Date
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\obj\Debug\net8.0\FinalExam.Data.dll
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\obj\Debug\net8.0\refint\FinalExam.Data.dll
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\obj\Debug\net8.0\FinalExam.Data.pdb
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\obj\Debug\net8.0\FinalExam.Data.genruntimeconfig.cache
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Data\obj\Debug\net8.0\ref\FinalExam.Data.dll

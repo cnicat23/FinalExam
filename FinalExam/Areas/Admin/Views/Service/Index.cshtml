@@ -1,0 +1,42 @@
+﻿@model List<Service>
+@{
+    var counter = 1;
+}
+<div class="container">
+    <div class="row mt-3">
+        <div class="col-4 mb-3">
+            <a asp-action="Create" class="btn btn-outline-primary">Create Service</a>
+        </div>
+        <div class="col-12">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Id</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">SubDescription</th>
+                        <th scope="col">Image</th>
+                        <th scope="col">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                   @foreach (var item in Model)
+                    {
+                        <tr>
+                            <th scope="row">@(counter++)</th>
+                            <td>@item.Id</td>
+                            <td>@item.Description</td>
+                            <td>@item.SubDescription</td>
+                            <td><img src="~/uploads/images/@item.ImageUrl" width="100px" height="100px" alt="Alternate Text" /></td>
+                            <td>
+                                <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-outline-warning">Update</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-warning">Delete</a>
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

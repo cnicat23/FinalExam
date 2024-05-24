@@ -1,0 +1,17 @@
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\obj\Debug\net8.0\FinalExam.Business.csproj.AssemblyReference.cache
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\obj\Debug\net8.0\FinalExam.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\obj\Debug\net8.0\FinalExam.Business.AssemblyInfoInputs.cache
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\obj\Debug\net8.0\FinalExam.Business.AssemblyInfo.cs
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\obj\Debug\net8.0\FinalExam.Business.csproj.CoreCompileInputs.cache
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\bin\Debug\net8.0\FinalExam.Business.deps.json
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\bin\Debug\net8.0\FinalExam.Business.dll
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\bin\Debug\net8.0\FinalExam.Business.pdb
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\bin\Debug\net8.0\FinalExam.Core.dll
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\bin\Debug\net8.0\FinalExam.Data.dll
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\bin\Debug\net8.0\FinalExam.Data.pdb
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\bin\Debug\net8.0\FinalExam.Core.pdb
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\obj\Debug\net8.0\FinalExa.74F3BAC1.Up2Date
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\obj\Debug\net8.0\FinalExam.Business.dll
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\obj\Debug\net8.0\refint\FinalExam.Business.dll
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\obj\Debug\net8.0\FinalExam.Business.pdb
+C:\Users\ca.r213.05\Desktop\FinalExam\FinalExam.Business\obj\Debug\net8.0\ref\FinalExam.Business.dll
